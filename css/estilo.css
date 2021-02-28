@@ -1,0 +1,42 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.ck.ck-editor {
+    position: relative;
+    width: 650px;
+}
+
+header {
+	background-color: #05c3f7;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+main {
+	display: flex;
+}
+
+.logo {
+	margin: auto;
+}
+
+.sair {
+	margin-right: 5%;
+}
+
+.sair a {
+	text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.barra_lateral {
+	margin-top: 5%;
+}
+
+.todos_produtos {
+	margin: 5% 33%;
+}
